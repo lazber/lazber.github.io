@@ -6,7 +6,7 @@
   <link href="http://lazber.github.io/atom.xml" rel="self"/>
   
   <link href="http://lazber.github.io/"/>
-  <updated>2020-09-19T04:20:04.465Z</updated>
+  <updated>2020-09-19T04:24:04.615Z</updated>
   <id>http://lazber.github.io/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>This is a picure</title>
+    <title>This is a picure 1</title>
     <link href="http://lazber.github.io/2020/09/19/post2/"/>
     <id>http://lazber.github.io/2020/09/19/post2/</id>
     <published>2020-09-19T04:10:58.000Z</published>
-    <updated>2020-09-19T04:20:04.465Z</updated>
+    <updated>2020-09-19T04:24:04.615Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/.io//t1.jpg" alt="vinci"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/.io//github/myblog/source/posts/t1.jpg" alt="vinci"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/.io//t1.jpg&quot; alt=&quot;vinci&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/.io//github/myblog/source/posts/t1.jpg&quot; alt=&quot;vinci&quot;&gt;&lt;/p&gt;
 </summary>
       
     
