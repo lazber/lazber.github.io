@@ -3,32 +3,32 @@
   <title>Lazber&amp;Vinci</title>
   
   <subtitle>Welcome to our zone</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://lazber.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2020-09-19T04:11:33.876Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://lazber.github.io/"/>
+  <updated>2020-09-19T04:14:23.916Z</updated>
+  <id>http://lazber.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Lazber&amp;Vinci</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>post2</title>
-    <link href="http://example.com/2020/09/19/post2/"/>
-    <id>http://example.com/2020/09/19/post2/</id>
+    <title>This is a picure</title>
+    <link href="http://lazber.github.io/2020/09/19/post2/"/>
+    <id>http://lazber.github.io/2020/09/19/post2/</id>
     <published>2020-09-19T04:10:58.000Z</published>
-    <updated>2020-09-19T04:11:33.876Z</updated>
+    <updated>2020-09-19T04:14:23.916Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/.com//t1.jpg" alt="vinci"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/.io//t1.jpg" alt="vinci"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/.com//t1.jpg&quot; alt=&quot;vinci&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/.io//t1.jpg&quot; alt=&quot;vinci&quot;&gt;&lt;/p&gt;
 </summary>
       
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World！</title>
-    <link href="http://example.com/2020/09/19/post1/"/>
-    <id>http://example.com/2020/09/19/post1/</id>
+    <link href="http://lazber.github.io/2020/09/19/post1/"/>
+    <id>http://lazber.github.io/2020/09/19/post1/</id>
     <published>2020-09-19T02:21:11.000Z</published>
     <updated>2020-09-19T02:25:37.331Z</updated>
     
