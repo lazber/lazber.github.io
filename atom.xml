@@ -6,7 +6,7 @@
   <link href="http://lazber.github.io/atom.xml" rel="self"/>
   
   <link href="http://lazber.github.io/"/>
-  <updated>2020-09-19T08:50:33.056Z</updated>
+  <updated>2020-09-19T08:53:37.413Z</updated>
   <id>http://lazber.github.io/</id>
   
   <author>
@@ -17,18 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>post3</title>
+    <title>post4</title>
     <link href="http://lazber.github.io/2020/09/19/post3/"/>
     <id>http://lazber.github.io/2020/09/19/post3/</id>
     <published>2020-09-19T08:29:22.000Z</published>
-    <updated>2020-09-19T08:50:33.056Z</updated>
+    <updated>2020-09-19T08:53:37.413Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://dss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1141259048,554497535&amp;fm=26&amp;gp=0.jpg">https://dss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1141259048,554497535&amp;fm=26&amp;gp=0.jpg</a></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://dss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1141259048,554497535&fm=26&gp=0.jpg"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://dss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1141259048,554497535&amp;amp;fm=26&amp;amp;gp=0.jpg&quot;&gt;https://dss1.bdstatic.co</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://dss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1141259048,554497535&amp;fm=26&amp;gp=0.jpg&quot;&gt;&lt;/p&gt;
+</summary>
       
     
     
