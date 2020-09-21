@@ -6,7 +6,7 @@
   <link href="http://lazber.github.io/atom.xml" rel="self"/>
   
   <link href="http://lazber.github.io/"/>
-  <updated>2020-09-21T07:42:44.217Z</updated>
+  <updated>2020-09-21T07:48:46.666Z</updated>
   <id>http://lazber.github.io/</id>
   
   <author>
@@ -21,8 +21,16 @@
     <link href="http://lazber.github.io/2020/09/21/post3/"/>
     <id>http://lazber.github.io/2020/09/21/post3/</id>
     <published>2020-09-21T07:42:44.000Z</published>
-    <updated>2020-09-21T07:42:44.217Z</updated>
+    <updated>2020-09-21T07:48:46.666Z</updated>
     
+    <content type="html"><![CDATA[<p>学习内容<br>1.模式识别数学基础部分。主要是概率论、线性分类器与支持向量机<br>2.python图像处理入门<br>3.尝试使用LaTex进行论文写作<br>4.借了舍友的西瓜书学习机器学习基本知识</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;学习内容&lt;br&gt;1.模式识别数学基础部分。主要是概率论、线性分类器与支持向量机&lt;br&gt;2.python图像处理入门&lt;br&gt;3.尝试使用LaTex进行论文写作&lt;br&gt;4.借了舍友的西瓜书学习机器学习基本知识&lt;/p&gt;
+</summary>
+      
     
     
     
