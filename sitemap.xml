@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lazber.github.io/2020/09/21/post3/</loc>
+    
+    <lastmod>2020-09-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://lazber.github.io/2020/09/19/post2/</loc>
     
     <lastmod>2020-09-19</lastmod>
@@ -18,7 +25,7 @@
 
   <url>
     <loc>http://lazber.github.io/</loc>
-    <lastmod>2020-09-19</lastmod>
+    <lastmod>2020-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
